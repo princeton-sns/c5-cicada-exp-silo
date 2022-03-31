@@ -1,4 +1,3 @@
 [submodule "masstree"]
 	path = masstree
-	url = git@github.com:princeton-sns/cicada-exp-sigmod2017-silo-masstree-beta.git
-	branch = silo
+	url = https://github.com/princeton-sns/c5-cicada-exp-silo-masstree-beta.git
